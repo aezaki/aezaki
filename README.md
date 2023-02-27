@@ -39,7 +39,10 @@ I'm currently studying at the University of Waterloo, expecting to graduate in D
 #
 
 ### 📱 How To Reach Me
-[website]: https://andrewzaki.works
+  https://andrewzaki.works
+  zakiandrew4@gmail.com
+  ![image](https://user-images.githubusercontent.com/65149092/221663924-23127778-dc14-4e2f-8b3c-19564834946b.png)
+  www.linkedin.com/in/andrew-zaki
 
 #
 
