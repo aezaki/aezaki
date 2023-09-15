@@ -35,6 +35,8 @@ I'm currently studying at the University of Waterloo, expecting to graduate in D
   - Object Oriented Programming
   - User Interfaces
   - Database Management
+  - Machine Learning
+  - Operating Systems
 
 #
 
