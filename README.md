@@ -1,9 +1,9 @@
 # Andrew Zaki [![](https://visitcount.itsvg.in/api?id=aezaki&icon=2&color=0)](https://visitcount.itsvg.in)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-**`Software Developer (Mobile/Full Stack)`**
+**`Software Developer (Full Stack)`**
 
-I'm a Computer Science student pursuing a career as a software developer. All coding projects are built with a specefic purpose to learn new concepts and refine existing skills. The next steps I am looking to take are expanding on the real worl experience I have and landing new opportunities to continue my software journey and find new ways to impact the developer world.
+I’m a Computer Science graduate working as a Software Engineer, continuously expanding my expertise and seeking new opportunities to grow. Every project I build is driven by a purpose—to learn new concepts, refine existing skills, and push the boundaries of my technical knowledge. I am committed to gaining real-world experience, tackling challenging problems, and making a meaningful impact in the developer world through innovation and continuous learning.
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andrewzaki132) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andrew-zaki/) 
@@ -16,7 +16,7 @@ I'm a Computer Science student pursuing a career as a software developer. All co
 #
 
 ### 🎓 Courses and Degree
-I'm currently studying at the University of Waterloo, expecting to graduate in December of 2023 with a Bachelor's Degree in Computer Science and a Minor in Business. Some of the relevent courses I have taken throughout my degree are:
+I'm a University of Waterloo Graduate, with a Bachelor's Degree in Computer Science and a Minor in Business. Some of the relevent courses I have taken throughout my degree are:
   - Data Structures
   - Algorithims
   - Object Oriented Programming
